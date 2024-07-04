@@ -15,7 +15,9 @@
     "@remix-run/react": "^2.10.2",
     "@remix-run/serve": "^2.10.2",
     "isbot": "^4.1.0",
+    "ra-data-simple-prisma": "^5.2.0",
     "react": "^18.2.0",
+    "react-admin": "^5.0.3",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
@@ -32,6 +34,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "postcss": "^8.4.38",
+    "prisma": "^5.16.1",
     "tailwindcss": "^3.4.4",
     "typescript": "^5.1.6",
     "vite": "^5.1.0",
